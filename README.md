@@ -20,8 +20,8 @@ While it doesn't actively block packets at the OS level, this project serves as 
 
 ## 📁 Project Structure
 
-|----- script.py #Main script
-|----- firewall.log #Auto-generated log of blocked packets
-|----- rules.json #IP and Port filtering rules
-|----- LICENSE #MIT Liecnse for Copyrights
+|----- script.py #Main script \n
+|----- firewall.log #Auto-generated log of blocked packets \n
+|----- rules.json #IP and Port filtering rules \n
+|----- LICENSE #MIT Liecnse for Copyrights \n
 
